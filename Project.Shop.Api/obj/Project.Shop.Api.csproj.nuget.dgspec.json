@@ -1,0 +1,221 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.Api/Project.Shop.Api.csproj": {}
+  },
+  "projects": {
+    "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.Api/Project.Shop.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.Api/Project.Shop.Api.csproj",
+        "projectName": "Project.Shop.Api",
+        "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.Api/Project.Shop.Api.csproj",
+        "packagesPath": "/home/jose/.nuget/packages/",
+        "outputPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.Api/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/jose/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.BusinessLogic/Project.Shop.BusinessLogic.csproj": {
+                "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.BusinessLogic/Project.Shop.BusinessLogic.csproj"
+              },
+              "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj": {
+                "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Certificate": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.BusinessLogic/Project.Shop.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.BusinessLogic/Project.Shop.BusinessLogic.csproj",
+        "projectName": "Project.Shop.BusinessLogic",
+        "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.BusinessLogic/Project.Shop.BusinessLogic.csproj",
+        "packagesPath": "/home/jose/.nuget/packages/",
+        "outputPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.BusinessLogic/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/jose/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj": {
+                "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj",
+        "projectName": "Project.Shop.DataAccess",
+        "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj",
+        "packagesPath": "/home/jose/.nuget/packages/",
+        "outputPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/jose/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
