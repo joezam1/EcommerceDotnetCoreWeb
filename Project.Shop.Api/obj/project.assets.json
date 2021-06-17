@@ -5255,11 +5255,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.Api/Project.Shop.Api.csproj",
+      "projectUniqueName": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.Api/Project.Shop.Api.csproj",
       "projectName": "Project.Shop.Api",
-      "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.Api/Project.Shop.Api.csproj",
+      "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.Api/Project.Shop.Api.csproj",
       "packagesPath": "/home/jose/.nuget/packages/",
-      "outputPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.Api/obj/",
+      "outputPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.Api/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5276,11 +5276,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.BusinessLogic/Project.Shop.BusinessLogic.csproj": {
-              "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.BusinessLogic/Project.Shop.BusinessLogic.csproj"
+            "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/Project.Shop.BusinessLogic.csproj": {
+              "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/Project.Shop.BusinessLogic.csproj"
             },
-            "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj": {
-              "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj"
+            "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj": {
+              "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj"
             }
           }
         }

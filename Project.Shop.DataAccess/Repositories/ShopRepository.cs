@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Project.Shop.DataAccess.DataModels;
 using Project.Shop.DataAccess.EFContext;
 using Project.Shop.DataAccess.Interfaces;
-using Project.Shop.DataAccess.UnitOfWork;
+
 
 namespace Project.Shop.DataAccess.Repositories
 {

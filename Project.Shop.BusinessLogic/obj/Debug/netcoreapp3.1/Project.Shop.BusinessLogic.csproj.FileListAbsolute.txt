@@ -46,3 +46,15 @@
 /home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.BusinessLogic/obj/Debug/netcoreapp3.1/Project.Shop.BusinessLogic.csproj.CopyComplete
 /home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.BusinessLogic/obj/Debug/netcoreapp3.1/Project.Shop.BusinessLogic.dll
 /home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.BusinessLogic/obj/Debug/netcoreapp3.1/Project.Shop.BusinessLogic.pdb
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/bin/Debug/netcoreapp3.1/Project.Shop.BusinessLogic.deps.json
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/bin/Debug/netcoreapp3.1/Project.Shop.BusinessLogic.dll
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/bin/Debug/netcoreapp3.1/Project.Shop.BusinessLogic.pdb
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/bin/Debug/netcoreapp3.1/Project.Shop.DataAccess.dll
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/bin/Debug/netcoreapp3.1/Project.Shop.DataAccess.pdb
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/obj/Debug/netcoreapp3.1/Project.Shop.BusinessLogic.csprojAssemblyReference.cache
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/obj/Debug/netcoreapp3.1/Project.Shop.BusinessLogic.AssemblyInfoInputs.cache
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/obj/Debug/netcoreapp3.1/Project.Shop.BusinessLogic.AssemblyInfo.cs
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/obj/Debug/netcoreapp3.1/Project.Shop.BusinessLogic.csproj.CoreCompileInputs.cache
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/obj/Debug/netcoreapp3.1/Project.Shop.BusinessLogic.csproj.CopyComplete
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/obj/Debug/netcoreapp3.1/Project.Shop.BusinessLogic.dll
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/obj/Debug/netcoreapp3.1/Project.Shop.BusinessLogic.pdb

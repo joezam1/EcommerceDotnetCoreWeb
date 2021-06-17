@@ -4948,11 +4948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.BusinessLogic/Project.Shop.BusinessLogic.csproj",
+      "projectUniqueName": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/Project.Shop.BusinessLogic.csproj",
       "projectName": "Project.Shop.BusinessLogic",
-      "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.BusinessLogic/Project.Shop.BusinessLogic.csproj",
+      "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/Project.Shop.BusinessLogic.csproj",
       "packagesPath": "/home/jose/.nuget/packages/",
-      "outputPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.BusinessLogic/obj/",
+      "outputPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -4969,8 +4969,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj": {
-              "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj"
+            "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj": {
+              "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj"
             }
           }
         }

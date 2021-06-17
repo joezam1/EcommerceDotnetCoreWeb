@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iM0rSdZ7gL6ADww4QfbF6Xjos66SWCcVL/WpqGKV1NxmHV1euSw0A8Egv9hDmTK/pixa9ZSoGgeVT74OmoB/sw==",
+  "dgSpecHash": "HT1md7PV1XsAHsPX7e5zB8s3dQnF2YQRxOV/TQHzytnKPN8IHCIHAqEIpYbE9nKze83kaOAiyjK1P4OgxeGXTw==",
   "success": true,
-  "projectFilePath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.Api/Project.Shop.Api.csproj",
+  "projectFilePath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.Api/Project.Shop.Api.csproj",
   "expectedPackageFiles": [
     "/home/jose/.nuget/packages/microsoft.aspnetcore.authentication.certificate/3.1.4/microsoft.aspnetcore.authentication.certificate.3.1.4.nupkg.sha512",
     "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.cors/2.2.0/microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",

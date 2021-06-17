@@ -89,10 +89,10 @@ namespace Project.Shop.DataAccess.Repositories
                 RepositoryPatternDemoContext.Set<TEntity>().Remove(existing);
                 await RepositoryPatternDemoContext.SaveChangesAsync();
             }
-            else
-            {
-                throw new ArgumentNullException($"{nameof(existing)} entity is null");
-            }
+            // else
+            // {
+            //     throw new ArgumentNullException($"{nameof(existing)} entity is null");
+            // }
             return existing;
         }
 

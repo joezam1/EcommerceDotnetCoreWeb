@@ -5000,11 +5000,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj",
+      "projectUniqueName": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj",
       "projectName": "Project.Shop.DataAccess",
-      "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj",
+      "projectPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/Project.Shop.DataAccess.csproj",
       "packagesPath": "/home/jose/.nuget/packages/",
-      "outputPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/obj/",
+      "outputPath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FUdVATHa90PjM+LhaNrrWJh7DRwh7vV0vkZF8sKljphIHj8nWpjq4/1ysFNgnauqOt5cmqe7v6yVDht6+XlPWQ==",
+  "dgSpecHash": "K7ivUCvFDuUsNZdWSfvYEmzxJW/exYtCXJbgwESXGARoAn+nMTZpUYS4J4Me43UiIwyZalItlT4Zq7KAeoH4WA==",
   "success": true,
-  "projectFilePath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.BusinessLogic/Project.Shop.BusinessLogic.csproj",
+  "projectFilePath": "/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.BusinessLogic/Project.Shop.BusinessLogic.csproj",
   "expectedPackageFiles": [
     "/home/jose/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/home/jose/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

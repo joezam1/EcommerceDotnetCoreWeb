@@ -46,3 +46,15 @@
 /home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/obj/Debug/netcoreapp3.1/Project.Shop.DataAccess.dll
 /home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/obj/Debug/netcoreapp3.1/Project.Shop.DataAccess.pdb
 /home/jose/Documents/ProgProjects/MyProjects/FlowerShop2020/FlowerEcomm010/Shop.Web/Project.Shop.DataAccess/obj/Debug/netcoreapp3.1/Project.Shop.DataAccess.genruntimeconfig.cache
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/bin/Debug/netcoreapp3.1/Project.Shop.DataAccess.deps.json
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/bin/Debug/netcoreapp3.1/Project.Shop.DataAccess.runtimeconfig.json
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/bin/Debug/netcoreapp3.1/Project.Shop.DataAccess.runtimeconfig.dev.json
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/bin/Debug/netcoreapp3.1/Project.Shop.DataAccess.dll
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/bin/Debug/netcoreapp3.1/Project.Shop.DataAccess.pdb
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/obj/Debug/netcoreapp3.1/Project.Shop.DataAccess.csprojAssemblyReference.cache
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/obj/Debug/netcoreapp3.1/Project.Shop.DataAccess.AssemblyInfoInputs.cache
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/obj/Debug/netcoreapp3.1/Project.Shop.DataAccess.AssemblyInfo.cs
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/obj/Debug/netcoreapp3.1/Project.Shop.DataAccess.csproj.CoreCompileInputs.cache
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/obj/Debug/netcoreapp3.1/Project.Shop.DataAccess.dll
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/obj/Debug/netcoreapp3.1/Project.Shop.DataAccess.pdb
+/home/jose/Documents/ProgProjects/MyProjects/FlowerShop2021/FlowerEcomm002/Shop.Web/Project.Shop.DataAccess/obj/Debug/netcoreapp3.1/Project.Shop.DataAccess.genruntimeconfig.cache

@@ -6,7 +6,6 @@ using Project.Shop.BusinessLogic.ViewModels;
 using Project.Shop.DataAccess.DataModels;
 using Project.Shop.DataAccess.EFContext;
 using Project.Shop.DataAccess.Interfaces;
-using Project.Shop.DataAccess.Repositories;
 
 namespace Project.Shop.BusinessLogic.DataServices
 {
@@ -30,7 +29,7 @@ namespace Project.Shop.BusinessLogic.DataServices
                 Statuses = (List<Status>)allComponents[2],
                 Sizes  = (List<Size>)allComponents[3]
             };
-
+            
             string objectsJson = _jsonHelper.JsonSerializeObject(components);
             
             return objectsJson;

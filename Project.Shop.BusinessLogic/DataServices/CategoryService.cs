@@ -16,18 +16,21 @@ namespace Project.Shop.BusinessLogic.DataServices
             _context = context;
         }
 
+        //Tested--
          public List<Category> GetAllCategories()
         {
             var result = _context.GetAll().ToList();
             return result;
         }
        
+        //Tested--
         public IEnumerable<Category> GetActiveCategories()
         {
              var categories =_context.Get(a =>a.IsInactive == false).ToList();
             return categories;
         }
 
+        //Tested--
         public async Task<Category> GetSingleCategoryByIdAsync(int id)
         {
             var selectedCategory =await _context.GetBySelectedIdAsync(id);
@@ -40,6 +43,7 @@ namespace Project.Shop.BusinessLogic.DataServices
             return result;
         }
         
+        //Tested--
         public async Task<int> UpdateCategoryAsync(Category category)
         {
             Category selectedCategory =await _context.GetBySelectedIdAsync(category.CategoryId);
@@ -54,6 +58,7 @@ namespace Project.Shop.BusinessLogic.DataServices
             return 0;
         }
 
+        //Tested--
         public async Task<Category> DeleteCategoryAsync(int id)
         {
             var result = await _context.DeleteAsync(id);
